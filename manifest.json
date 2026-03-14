@@ -5,8 +5,8 @@
     "optional": [],
     "js": "index.js",
     "css": "style.css",
-    "author": "Leandro Jofre",
-    "version": "1.2.6",
-    "homePage": "https://github.com/leandrojofre/SillyTavern-WI-Bulk-Mover.git",
+    "author": "Sachin Kumar",
+    "version": "1.2.7",
+    "homePage": "https://github.com/sachinkmr/SillyTavern-WI-Bulk-Move-Copy",
     "auto_update": true
 }
